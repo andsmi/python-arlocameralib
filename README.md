@@ -20,3 +20,4 @@ and set your arlo password
 
 then execute the app.....
 
+*every time the app logs in it logs you off the web page... no more than one session allowed at a time it seems.
